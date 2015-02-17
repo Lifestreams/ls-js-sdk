@@ -1,0 +1,28 @@
+{
+  "name": "ls-js-sdk",
+  "version": "1.0.0",
+  "homepage": "https://github.com/Lifestreams/ls-js-sdk",
+  "authors": [
+    "Lifestreams Technologies Corporation"
+  ],
+  "description": "JavaScript SDK provides set of methods and properties to store, manage and retrieve cards in an activity stream/timeline via Lifestreams Technologies Corporation's RESTful API.",
+  "main": "dist/api.min.js",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "card",
+    "cards",
+    "cardify",
+    "feed",
+    "activity stream"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "lib",
+    "test",
+    "coverage"
+  ]
+}
